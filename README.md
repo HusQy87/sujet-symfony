@@ -12,7 +12,7 @@
 Création d'une route `/meme/{id_meme}` qui va afficher un meme en particulier, utiliser un template pour l'afficher 
 
 
-#Exo 2 - Entités et fixtures
+# Exo 2 - Entités et fixtures
 
 Création d'une Entité "MemeProvider"
 
@@ -25,7 +25,7 @@ created_at | DateTime |
 
 
 Ensuite crée une fixture qui va permettre d'ajouter des MemeProvider
-#Exo 3 Commande 
+# Exo 3 Commande 
 
 Création d'une commmande ``app:add-meme`` qui va demander a l'utilisateur un nom et un lien et de choisir un MemeProvider puis enregistrer un nouveau meme
 
